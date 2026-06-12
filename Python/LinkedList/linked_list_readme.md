@@ -1,4 +1,4 @@
-# 🔗 ArrayList — Linked List Practice
+# 🔗 LinkedList — Linked List Practice
 
 **Author:** Prateek Waghmare  
 
